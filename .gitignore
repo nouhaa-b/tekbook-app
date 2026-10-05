@@ -6,3 +6,6 @@ target/
 Dockerfile
 .dockerignore
 .env
+compose-final.txt
+erreur-etape1.txt
+scan.txt
